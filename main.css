@@ -1,0 +1,75 @@
+.Login {
+    font-family: 'Amatic SC', cursive;
+    font-size: 70px;
+    text-align: center;
+    color: Purple;
+    
+    
+}
+    
+.About {
+    font-family: 'Amatic SC', cursive;
+    font-size: 70px;
+    text-align: center;
+    color: Blue;
+    
+}
+
+.Home {
+    font-family: 'Amatic SC', cursive;
+    font-size: 70px;
+    text-align: center;
+    color: Green;
+    
+    border-color: currentColor;
+    
+}
+
+.Videos {
+    font-family: 'Amatic SC', cursive;
+    font-size: 70px;
+    text-align: center;
+    color: #FF3300;
+}
+
+.Timestable {
+    font-family: 'Amatic SC', cursive;
+    font-size: 70px;
+    text-align: center;
+    color: #FF0066;
+}
+    
+.titlebar h1 {
+   font-family: 'Amatic SC', cursive;
+    font-size: 110px;
+}
+
+.titlebar p {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 31px;
+}
+
+.Lessonchoice p {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 25px;
+    text-align: center;
+}
+
+.Timeschoice p {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 25px;
+    text-align: center;
+    
+}
+
+.videomenu { 
+    padding-top: 30px;
+}
+    
+    
+.menu {
+    font-family: 'Shadows Into Light', cursive;
+}
+    
+    
+    
