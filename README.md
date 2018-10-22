@@ -1,3 +1,3 @@
 # gh-pages
 
-Website creation is nice I think
+Website for RaynerMaker. Social Content based on making. 
